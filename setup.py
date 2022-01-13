@@ -14,7 +14,7 @@ setup(
     description="A collection of useful functions for writers to analyze text/stories.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
+    url="https://github.com/Codenameaidan/AuthorTools",
     author="Codenameaidan",
     author_email="codenameaidan@gmail.com",
     license="MIT",
