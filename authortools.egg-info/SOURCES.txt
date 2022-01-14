@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+authortools/__init__.py
+authortools/authortools.py
+authortools/writing_analysis.py
+authortools.egg-info/PKG-INFO
+authortools.egg-info/SOURCES.txt
+authortools.egg-info/dependency_links.txt
+authortools.egg-info/top_level.txt
