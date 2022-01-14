@@ -1,2 +1,0 @@
-authortools
-writing_analysis
